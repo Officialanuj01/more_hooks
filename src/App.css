@@ -1,0 +1,18 @@
+body{
+  align-items: center;
+  text-align: center;
+}
+#mainbox{
+  background-color: rgb(207, 146, 33);
+
+}
+#getback{
+  height: 50px;
+  width: 150px;
+  margin-top: 2vh;
+  background-color: white;
+}
+#getback:hover{
+  background-color: rgb(207, 146, 33);
+  color: white;
+}
